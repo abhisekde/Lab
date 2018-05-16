@@ -9,7 +9,7 @@ char* reverse(char* str)
 	char t;
 	int len = strlen(str);
 	int i = 0, j = len-1;
-	for(; i < j; i++, j--) 
+	for(; i < j; i++, j--)
 	{
 		t = str[i];
 		str[i] = str[j];
@@ -24,7 +24,7 @@ char* format_space(char* str, const int length)
 	char* output = (char*) malloc(sizeof(char)* 1000);
 	for(int i = 0; i < length; i++, j++)
 	{
-		if(str[i] == ' ') 
+		if(str[i] == ' ')
 		{
 			output[j] = '0';
 			output[++j] = '2';
@@ -38,7 +38,7 @@ char* format_space(char* str, const int length)
 }
 char* format_url(char* str, const int length)
 {
-	return 	reverse(format_space(reverse(str), length));	
+	return 	reverse(format_space(reverse(str), length));
 }
 
 int main(int argc, char** argv)
