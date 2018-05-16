@@ -48,3 +48,5 @@ int main(int argc, char** argv)
 	cout<<format_url(argv[1], strlen(argv[1]))<<endl;
 	return 0;
 }
+
+/*added comments only*/
