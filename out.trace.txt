@@ -1,0 +1,1206 @@
+99976 >= 1 99987 <= 100000
+Allocate slot 99976 out of 1 100000 to investor 480 within availability 99976 99987
+97718 >= 1 97734 <= 100000
+Allocate slot 97718 out of 1 100000 to investor 518 within availability 97718 97734
+87863 >= 1 87886 <= 100000
+Allocate slot 87863 out of 1 100000 to investor 411 within availability 87863 87886
+99612 >= 1 99639 <= 100000
+Allocate slot 99612 out of 1 100000 to investor 52 within availability 99612 99639
+99357 >= 1 99384 <= 100000
+Allocate slot 99357 out of 1 100000 to investor 647 within availability 99357 99384
+82385 >= 1 82429 <= 100000
+Allocate slot 82385 out of 1 100000 to investor 279 within availability 82385 82429
+99567 >= 1 99638 <= 100000
+Allocate slot 99567 out of 1 100000 to investor 567 within availability 99567 99638
+99604 >= 1 99678 <= 100000
+Allocate slot 99604 out of 1 100000 to investor 755 within availability 99604 99678
+32870 >= 1 32949 <= 100000
+Allocate slot 32870 out of 1 100000 to investor 862 within availability 32870 32949
+67492 >= 1 67594 <= 100000
+Allocate slot 67492 out of 1 100000 to investor 623 within availability 67492 67594
+85761 >= 1 85909 <= 100000
+Allocate slot 85761 out of 1 100000 to investor 76 within availability 85761 85909
+93304 >= 1 93475 <= 100000
+Allocate slot 93304 out of 1 100000 to investor 560 within availability 93304 93475
+99507 >= 1 99697 <= 100000
+Allocate slot 99507 out of 1 100000 to investor 794 within availability 99507 99697
+89711 >= 1 89922 <= 100000
+Allocate slot 89711 out of 1 100000 to investor 13 within availability 89711 89922
+98604 >= 1 98825 <= 100000
+Allocate slot 98604 out of 1 100000 to investor 204 within availability 98604 98825
+91982 >= 1 92225 <= 100000
+Allocate slot 91982 out of 1 100000 to investor 601 within availability 91982 92225
+99738 >= 1 99991 <= 100000
+Allocate slot 99738 out of 1 100000 to investor 45 within availability 99738 99991
+99467 >= 1 99733 <= 100000
+Allocate slot 99467 out of 1 100000 to investor 418 within availability 99467 99733
+94887 >= 1 95155 <= 100000
+Allocate slot 94887 out of 1 100000 to investor 133 within availability 94887 95155
+99716 >= 1 99994 <= 100000
+Allocate slot 99716 out of 1 100000 to investor 761 within availability 99716 99994
+97710 >= 1 98067 <= 100000
+Allocate slot 97710 out of 1 100000 to investor 722 within availability 97710 98067
+99378 >= 1 99756 <= 100000
+Allocate slot 99378 out of 1 100000 to investor 749 within availability 99378 99756
+97194 >= 1 97576 <= 100000
+Allocate slot 97194 out of 1 100000 to investor 700 within availability 97194 97576
+99427 >= 1 99815 <= 100000
+Allocate slot 99427 out of 1 100000 to investor 754 within availability 99427 99815
+98983 >= 1 99410 <= 100000
+Allocate slot 98983 out of 1 100000 to investor 74 within availability 98983 99410
+5308 >= 1 5739 <= 100000
+Allocate slot 5308 out of 1 100000 to investor 734 within availability 5308 5739
+92144 >= 1 92593 <= 100000
+Allocate slot 92144 out of 1 100000 to investor 228 within availability 92144 92593
+46894 >= 1 47352 <= 100000
+Allocate slot 46894 out of 1 100000 to investor 566 within availability 46894 47352
+96345 >= 1 96822 <= 100000
+Allocate slot 96345 out of 1 100000 to investor 785 within availability 96345 96822
+89471 >= 1 89956 <= 100000
+Allocate slot 89471 out of 1 100000 to investor 927 within availability 89471 89956
+96427 >= 1 96913 <= 100000
+Allocate slot 96427 out of 1 100000 to investor 144 within availability 96427 96913
+92640 >= 1 93138 <= 100000
+Allocate slot 92640 out of 1 100000 to investor 903 within availability 92640 93138
+97437 >= 1 97955 <= 100000
+Allocate slot 97437 out of 1 100000 to investor 842 within availability 97437 97955
+31601 >= 1 32123 <= 100000
+Allocate slot 31601 out of 1 100000 to investor 56 within availability 31601 32123
+68807 >= 1 69376 <= 100000
+Allocate slot 68807 out of 1 100000 to investor 163 within availability 68807 69376
+98846 >= 1 99417 <= 100000
+Allocate slot 98846 out of 1 100000 to investor 733 within availability 98846 99417
+38555 >= 1 39133 <= 100000
+Allocate slot 38555 out of 1 100000 to investor 782 within availability 38555 39133
+98494 >= 1 99142 <= 100000
+Allocate slot 98494 out of 1 100000 to investor 826 within availability 98494 99142
+65570 >= 1 66232 <= 100000
+Allocate slot 65570 out of 1 100000 to investor 384 within availability 65570 66232
+82144 >= 1 82821 <= 100000
+Allocate slot 82144 out of 1 100000 to investor 606 within availability 82144 82821
+77456 >= 1 78151 <= 100000
+Allocate slot 77456 out of 1 100000 to investor 230 within availability 77456 78151
+81891 >= 1 82586 <= 100000
+Allocate slot 81891 out of 1 100000 to investor 664 within availability 81891 82586
+80657 >= 1 81359 <= 100000
+Allocate slot 80657 out of 1 100000 to investor 201 within availability 80657 81359
+89656 >= 1 90374 <= 100000
+Allocate slot 89656 out of 1 100000 to investor 19 within availability 89656 90374
+71174 >= 1 71909 <= 100000
+Allocate slot 71174 out of 1 100000 to investor 243 within availability 71174 71909
+68638 >= 1 69375 <= 100000
+Allocate slot 68638 out of 1 100000 to investor 504 within availability 68638 69375
+45691 >= 1 46431 <= 100000
+Allocate slot 45691 out of 1 100000 to investor 947 within availability 45691 46431
+95545 >= 1 96304 <= 100000
+Allocate slot 95545 out of 1 100000 to investor 226 within availability 95545 96304
+67400 >= 1 68159 <= 100000
+Allocate slot 67400 out of 1 100000 to investor 329 within availability 67400 68159
+98632 >= 1 99402 <= 100000
+Allocate slot 98632 out of 1 100000 to investor 423 within availability 98632 99402
+19805 >= 1 20584 <= 100000
+Allocate slot 19805 out of 1 100000 to investor 619 within availability 19805 20584
+92155 >= 1 92938 <= 100000
+Allocate slot 92155 out of 1 100000 to investor 375 within availability 92155 92938
+99086 >= 1 99897 <= 100000
+Allocate slot 99086 out of 1 100000 to investor 353 within availability 99086 99897
+84667 >= 1 85505 <= 100000
+Allocate slot 84667 out of 1 100000 to investor 530 within availability 84667 85505
+54531 >= 1 55371 <= 100000
+Allocate slot 54531 out of 1 100000 to investor 982 within availability 54531 55371
+86798 >= 1 87659 <= 100000
+Allocate slot 86798 out of 1 100000 to investor 239 within availability 86798 87659
+96455 >= 1 97375 <= 100000
+Allocate slot 96455 out of 1 100000 to investor 924 within availability 96455 97375
+98218 >= 1 99144 <= 100000
+Allocate slot 98218 out of 1 100000 to investor 684 within availability 98218 99144
+98313 >= 1 99317 <= 100000
+Allocate slot 98313 out of 1 100000 to investor 539 within availability 98313 99317
+12464 >= 1 13469 <= 100000
+Allocate slot 12464 out of 1 100000 to investor 847 within availability 12464 13469
+81601 >= 1 82639 <= 100000
+Allocate slot 81601 out of 1 100000 to investor 936 within availability 81601 82639
+95074 >= 1 96183 <= 100000
+Allocate slot 95074 out of 1 100000 to investor 531 within availability 95074 96183
+87658 >= 1 88774 <= 100000
+Allocate slot 87658 out of 1 100000 to investor 618 within availability 87658 88774
+97747 >= 1 98905 <= 100000
+Allocate slot 97747 out of 1 100000 to investor 944 within availability 97747 98905
+98121 >= 1 99312 <= 100000
+Allocate slot 98121 out of 1 100000 to investor 598 within availability 98121 99312
+97740 >= 1 98957 <= 100000
+Allocate slot 97740 out of 1 100000 to investor 625 within availability 97740 98957
+94910 >= 1 96162 <= 100000
+Allocate slot 94910 out of 1 100000 to investor 987 within availability 94910 96162
+81824 >= 1 83128 <= 100000
+Allocate slot 81824 out of 1 100000 to investor 78 within availability 81824 83128
+36418 >= 1 37735 <= 100000
+Allocate slot 36418 out of 1 100000 to investor 505 within availability 36418 37735
+97833 >= 1 99155 <= 100000
+Allocate slot 97833 out of 1 100000 to investor 642 within availability 97833 99155
+98517 >= 1 99852 <= 100000
+Allocate slot 98517 out of 1 100000 to investor 333 within availability 98517 99852
+94324 >= 1 95714 <= 100000
+Allocate slot 94324 out of 1 100000 to investor 459 within availability 94324 95714
+81497 >= 1 82904 <= 100000
+Allocate slot 81497 out of 1 100000 to investor 548 within availability 81497 82904
+45076 >= 1 46488 <= 100000
+Allocate slot 45076 out of 1 100000 to investor 264 within availability 45076 46488
+12988 >= 1 14441 <= 100000
+Allocate slot 12988 out of 1 100000 to investor 946 within availability 12988 14441
+87242 >= 1 88699 <= 100000
+Allocate slot 87242 out of 1 100000 to investor 438 within availability 87242 88699
+38536 >= 1 40009 <= 100000
+Allocate slot 38536 out of 1 100000 to investor 729 within availability 38536 40009
+96914 >= 1 98406 <= 100000
+Allocate slot 96914 out of 1 100000 to investor 629 within availability 96914 98406
+91353 >= 1 92918 <= 100000
+Allocate slot 91353 out of 1 100000 to investor 476 within availability 91353 92918
+91685 >= 1 93259 <= 100000
+Allocate slot 91685 out of 1 100000 to investor 103 within availability 91685 93259
+33176 >= 1 34796 <= 100000
+Allocate slot 33176 out of 1 100000 to investor 841 within availability 33176 34796
+94713 >= 1 96379 <= 100000
+Allocate slot 94713 out of 1 100000 to investor 389 within availability 94713 96379
+1562 >= 1 3259 <= 100000
+Allocate slot 1562 out of 1 100000 to investor 292 within availability 1562 3259
+98287 >= 1 99990 <= 100000
+Allocate slot 98287 out of 1 100000 to investor 608 within availability 98287 99990
+95018 >= 1 96728 <= 100000
+Allocate slot 95018 out of 1 100000 to investor 652 within availability 95018 96728
+87420 >= 1 89154 <= 100000
+Allocate slot 87420 out of 1 100000 to investor 992 within availability 87420 89154
+61412 >= 1 63148 <= 100000
+Allocate slot 61412 out of 1 100000 to investor 820 within availability 61412 63148
+92622 >= 1 94379 <= 100000
+Allocate slot 92622 out of 1 100000 to investor 446 within availability 92622 94379
+80807 >= 1 82599 <= 100000
+Allocate slot 80807 out of 1 100000 to investor 449 within availability 80807 82599
+37648 >= 1 39442 <= 100000
+Allocate slot 37648 out of 1 100000 to investor 596 within availability 37648 39442
+47116 >= 1 48931 <= 100000
+Allocate slot 47116 out of 1 100000 to investor 983 within availability 47116 48931
+95310 >= 1 97132 <= 100000
+Allocate slot 95310 out of 1 100000 to investor 555 within availability 95310 97132
+96727 >= 1 98555 <= 100000
+Allocate slot 96727 out of 1 100000 to investor 516 within availability 96727 98555
+20941 >= 1 22773 <= 100000
+Allocate slot 20941 out of 1 100000 to investor 710 within availability 20941 22773
+97136 >= 1 99028 <= 100000
+Allocate slot 97136 out of 1 100000 to investor 327 within availability 97136 99028
+91120 >= 1 93027 <= 100000
+Allocate slot 91120 out of 1 100000 to investor 39 within availability 91120 93027
+92825 >= 1 94749 <= 100000
+Allocate slot 92825 out of 1 100000 to investor 671 within availability 92825 94749
+64884 >= 1 66818 <= 100000
+Allocate slot 64884 out of 1 100000 to investor 184 within availability 64884 66818
+57107 >= 1 59045 <= 100000
+Allocate slot 57107 out of 1 100000 to investor 714 within availability 57107 59045
+96518 >= 1 98461 <= 100000
+Allocate slot 96518 out of 1 100000 to investor 288 within availability 96518 98461
+74918 >= 1 76862 <= 100000
+Allocate slot 74918 out of 1 100000 to investor 160 within availability 74918 76862
+57110 >= 1 59109 <= 100000
+Allocate slot 57110 out of 1 100000 to investor 799 within availability 57110 59109
+97594 >= 1 99616 <= 100000
+Allocate slot 97594 out of 1 100000 to investor 447 within availability 97594 99616
+89391 >= 1 91443 <= 100000
+Allocate slot 89391 out of 1 100000 to investor 611 within availability 89391 91443
+97560 >= 1 99615 <= 100000
+Allocate slot 97560 out of 1 100000 to investor 289 within availability 97560 99615
+56238 >= 1 58302 <= 100000
+Allocate slot 56238 out of 1 100000 to investor 471 within availability 56238 58302
+94929 >= 1 97019 <= 100000
+Allocate slot 94929 out of 1 100000 to investor 166 within availability 94929 97019
+84784 >= 1 86902 <= 100000
+Allocate slot 84784 out of 1 100000 to investor 685 within availability 84784 86902
+63670 >= 1 65801 <= 100000
+Allocate slot 63670 out of 1 100000 to investor 106 within availability 63670 65801
+93889 >= 1 96037 <= 100000
+Allocate slot 93889 out of 1 100000 to investor 575 within availability 93889 96037
+10616 >= 1 12859 <= 100000
+Allocate slot 10616 out of 1 100000 to investor 250 within availability 10616 12859
+96895 >= 1 99138 <= 100000
+Allocate slot 96895 out of 1 100000 to investor 834 within availability 96895 99138
+46519 >= 1 48791 <= 100000
+Allocate slot 46519 out of 1 100000 to investor 600 within availability 46519 48791
+74316 >= 1 76652 <= 100000
+Allocate slot 74316 out of 1 100000 to investor 180 within availability 74316 76652
+89184 >= 1 91642 <= 100000
+Allocate slot 89184 out of 1 100000 to investor 765 within availability 89184 91642
+33815 >= 1 36299 <= 100000
+Allocate slot 33815 out of 1 100000 to investor 463 within availability 33815 36299
+94064 >= 1 96554 <= 100000
+Allocate slot 94064 out of 1 100000 to investor 360 within availability 94064 96554
+89195 >= 1 91728 <= 100000
+Allocate slot 89195 out of 1 100000 to investor 67 within availability 89195 91728
+83682 >= 1 86216 <= 100000
+Allocate slot 83682 out of 1 100000 to investor 751 within availability 83682 86216
+67496 >= 1 70093 <= 100000
+Allocate slot 67496 out of 1 100000 to investor 964 within availability 67496 70093
+87549 >= 1 90208 <= 100000
+Allocate slot 87549 out of 1 100000 to investor 628 within availability 87549 90208
+13506 >= 1 16183 <= 100000
+Allocate slot 13506 out of 1 100000 to investor 216 within availability 13506 16183
+96410 >= 1 99107 <= 100000
+Allocate slot 96410 out of 1 100000 to investor 88 within availability 96410 99107
+53711 >= 1 56415 <= 100000
+Allocate slot 53711 out of 1 100000 to investor 994 within availability 53711 56415
+91310 >= 1 94028 <= 100000
+Allocate slot 91310 out of 1 100000 to investor 502 within availability 91310 94028
+93881 >= 1 96613 <= 100000
+Allocate slot 93881 out of 1 100000 to investor 6 within availability 93881 96613
+95118 >= 1 97890 <= 100000
+Allocate slot 95118 out of 1 100000 to investor 614 within availability 95118 97890
+35133 >= 1 37956 <= 100000
+Allocate slot 35133 out of 1 100000 to investor 938 within availability 35133 37956
+71521 >= 1 74383 <= 100000
+Allocate slot 71521 out of 1 100000 to investor 746 within availability 71521 74383
+69120 >= 1 71997 <= 100000
+Allocate slot 69120 out of 1 100000 to investor 498 within availability 69120 71997
+77089 >= 1 80026 <= 100000
+Allocate slot 77089 out of 1 100000 to investor 403 within availability 77089 80026
+13831 >= 1 16776 <= 100000
+Allocate slot 13831 out of 1 100000 to investor 364 within availability 13831 16776
+95448 >= 1 98428 <= 100000
+Allocate slot 95448 out of 1 100000 to investor 745 within availability 95448 98428
+66074 >= 1 69107 <= 100000
+Allocate slot 66074 out of 1 100000 to investor 148 within availability 66074 69107
+81060 >= 1 84105 <= 100000
+Allocate slot 81060 out of 1 100000 to investor 701 within availability 81060 84105
+77654 >= 1 80718 <= 100000
+Allocate slot 77654 out of 1 100000 to investor 43 within availability 77654 80718
+78387 >= 1 81504 <= 100000
+Allocate slot 78387 out of 1 100000 to investor 87 within availability 78387 81504
+75468 >= 1 78600 <= 100000
+Allocate slot 75468 out of 1 100000 to investor 908 within availability 75468 78600
+92344 >= 1 95513 <= 100000
+Allocate slot 92344 out of 1 100000 to investor 95 within availability 92344 95513
+94103 >= 1 97278 <= 100000
+Allocate slot 94103 out of 1 100000 to investor 298 within availability 94103 97278
+22574 >= 1 25790 <= 100000
+Allocate slot 22574 out of 1 100000 to investor 551 within availability 22574 25790
+82658 >= 1 85880 <= 100000
+Allocate slot 82658 out of 1 100000 to investor 818 within availability 82658 85880
+56046 >= 1 59308 <= 100000
+Allocate slot 56046 out of 1 100000 to investor 656 within availability 56046 59308
+36789 >= 1 40060 <= 100000
+Allocate slot 36789 out of 1 100000 to investor 783 within availability 36789 40060
+75044 >= 1 78328 <= 100000
+Allocate slot 75044 out of 1 100000 to investor 832 within availability 75044 78328
+47707 >= 1 50994 <= 100000
+Allocate slot 47707 out of 1 100000 to investor 214 within availability 47707 50994
+77541 >= 1 80872 <= 100000
+Allocate slot 77541 out of 1 100000 to investor 278 within availability 77541 80872
+93817 >= 1 97157 <= 100000
+Allocate slot 93817 out of 1 100000 to investor 506 within availability 93817 97157
+66795 >= 1 70154 <= 100000
+Allocate slot 66795 out of 1 100000 to investor 308 within availability 66795 70154
+95241 >= 1 98602 <= 100000
+Allocate slot 95241 out of 1 100000 to investor 632 within availability 95241 98602
+59682 >= 1 63067 <= 100000
+Allocate slot 59682 out of 1 100000 to investor 347 within availability 59682 63067
+40774 >= 1 44163 <= 100000
+Allocate slot 40774 out of 1 100000 to investor 564 within availability 40774 44163
+75126 >= 1 78523 <= 100000
+Allocate slot 75126 out of 1 100000 to investor 937 within availability 75126 78523
+90345 >= 1 93816 <= 100000
+Allocate slot 90345 out of 1 100000 to investor 263 within availability 90345 93816
+61280 >= 1 64780 <= 100000
+Allocate slot 61280 out of 1 100000 to investor 779 within availability 61280 64780
+77373 >= 1 80932 <= 100000
+Allocate slot 77373 out of 1 100000 to investor 25 within availability 77373 80932
+47901 >= 1 51467 <= 100000
+Allocate slot 47901 out of 1 100000 to investor 195 within availability 47901 51467
+86992 >= 1 90569 <= 100000
+Allocate slot 86992 out of 1 100000 to investor 248 within availability 86992 90569
+96281 >= 1 99885 <= 100000
+Allocate slot 96281 out of 1 100000 to investor 175 within availability 96281 99885
+61617 >= 1 65242 <= 100000
+Allocate slot 61617 out of 1 100000 to investor 932 within availability 61617 65242
+88781 >= 1 92421 <= 100000
+Allocate slot 88781 out of 1 100000 to investor 233 within availability 88781 92421
+65658 >= 1 69338 <= 100000
+Allocate slot 65658 out of 1 100000 to investor 910 within availability 65658 69338
+90676 >= 1 94359 <= 100000
+Allocate slot 90676 out of 1 100000 to investor 157 within availability 90676 94359
+7946 >= 1 11654 <= 100000
+Allocate slot 7946 out of 1 100000 to investor 424 within availability 7946 11654
+94431 >= 1 98143 <= 100000
+Allocate slot 94431 out of 1 100000 to investor 869 within availability 94431 98143
+90183 >= 1 93913 <= 100000
+Allocate slot 90183 out of 1 100000 to investor 667 within availability 90183 93913
+78472 >= 1 82222 <= 100000
+Allocate slot 78472 out of 1 100000 to investor 283 within availability 78472 82222
+55471 >= 1 59225 <= 100000
+Allocate slot 55471 out of 1 100000 to investor 444 within availability 55471 59225
+67223 >= 1 70990 <= 100000
+Allocate slot 67223 out of 1 100000 to investor 84 within availability 67223 70990
+2846 >= 1 6619 <= 100000
+Allocate slot 2846 out of 1 100000 to investor 422 within availability 2846 6619
+82479 >= 1 86257 <= 100000
+Allocate slot 82479 out of 1 100000 to investor 552 within availability 82479 86257
+76440 >= 1 80235 <= 100000
+Allocate slot 76440 out of 1 100000 to investor 940 within availability 76440 80235
+86269 >= 1 90079 <= 100000
+Allocate slot 86269 out of 1 100000 to investor 963 within availability 86269 90079
+94802 >= 1 98622 <= 100000
+Allocate slot 94802 out of 1 100000 to investor 65 within availability 94802 98622
+89945 >= 1 93765 <= 100000
+Allocate slot 89945 out of 1 100000 to investor 125 within availability 89945 93765
+84821 >= 1 88658 <= 100000
+Allocate slot 84821 out of 1 100000 to investor 458 within availability 84821 88658
+90273 >= 1 94146 <= 100000
+Allocate slot 90273 out of 1 100000 to investor 806 within availability 90273 94146
+9892 >= 1 13811 <= 100000
+Allocate slot 9892 out of 1 100000 to investor 123 within availability 9892 13811
+92320 >= 1 96245 <= 100000
+Allocate slot 92320 out of 1 100000 to investor 853 within availability 92320 96245
+79299 >= 1 83284 <= 100000
+Allocate slot 79299 out of 1 100000 to investor 342 within availability 79299 83284
+86032 >= 1 90026 <= 100000
+Allocate slot 86032 out of 1 100000 to investor 41 within availability 86032 90026
+81299 >= 1 85305 <= 100000
+Allocate slot 81299 out of 1 100000 to investor 578 within availability 81299 85305
+73871 >= 1 77892 <= 100000
+Allocate slot 73871 out of 1 100000 to investor 962 within availability 73871 77892
+93214 >= 1 97262 <= 100000
+Allocate slot 93214 out of 1 100000 to investor 314 within availability 93214 97262
+92813 >= 1 96874 <= 100000
+Allocate slot 92813 out of 1 100000 to investor 229 within availability 92813 96874
+66917 >= 1 70983 <= 100000
+Allocate slot 66917 out of 1 100000 to investor 634 within availability 66917 70983
+87882 >= 1 91949 <= 100000
+Allocate slot 87882 out of 1 100000 to investor 337 within availability 87882 91949
+31326 >= 1 35417 <= 100000
+Allocate slot 31326 out of 1 100000 to investor 129 within availability 31326 35417
+80253 >= 1 84351 <= 100000
+Allocate slot 80253 out of 1 100000 to investor 182 within availability 80253 84351
+59218 >= 1 63382 <= 100000
+Allocate slot 59218 out of 1 100000 to investor 114 within availability 59218 63382
+93845 >= 1 98042 <= 100000
+Allocate slot 93845 out of 1 100000 to investor 579 within availability 93845 98042
+92925 >= 1 97128 <= 100000
+Allocate slot 92925 out of 1 100000 to investor 294 within availability 92925 97128
+59235 >= 1 63439 <= 100000
+Allocate slot 59235 out of 1 100000 to investor 200 within availability 59235 63439
+35614 >= 1 39823 <= 100000
+Allocate slot 35614 out of 1 100000 to investor 930 within availability 35614 39823
+92269 >= 1 96526 <= 100000
+Allocate slot 92269 out of 1 100000 to investor 909 within availability 92269 96526
+22835 >= 1 27142 <= 100000
+Allocate slot 22835 out of 1 100000 to investor 563 within availability 22835 27142
+94652 >= 1 99024 <= 100000
+Allocate slot 94652 out of 1 100000 to investor 211 within availability 94652 99024
+18510 >= 1 22963 <= 100000
+Allocate slot 18510 out of 1 100000 to investor 547 within availability 18510 22963
+69156 >= 1 73647 <= 100000
+Allocate slot 69156 out of 1 100000 to investor 569 within availability 69156 73647
+89119 >= 1 93625 <= 100000
+Allocate slot 89119 out of 1 100000 to investor 648 within availability 89119 93625
+16067 >= 1 20614 <= 100000
+Allocate slot 16067 out of 1 100000 to investor 492 within availability 16067 20614
+87892 >= 1 92474 <= 100000
+Allocate slot 87892 out of 1 100000 to investor 428 within availability 87892 92474
+95103 >= 1 99721 <= 100000
+Allocate slot 95103 out of 1 100000 to investor 98 within availability 95103 99721
+35858 >= 1 40476 <= 100000
+Allocate slot 35858 out of 1 100000 to investor 975 within availability 35858 40476
+53293 >= 1 57921 <= 100000
+Allocate slot 53293 out of 1 100000 to investor 986 within availability 53293 57921
+89275 >= 1 93917 <= 100000
+Allocate slot 89275 out of 1 100000 to investor 433 within availability 89275 93917
+27501 >= 1 32166 <= 100000
+Allocate slot 27501 out of 1 100000 to investor 951 within availability 27501 32166
+81565 >= 1 86275 <= 100000
+Allocate slot 81565 out of 1 100000 to investor 676 within availability 81565 86275
+92027 >= 1 96849 <= 100000
+Allocate slot 92027 out of 1 100000 to investor 776 within availability 92027 96849
+94555 >= 1 99483 <= 100000
+Allocate slot 94555 out of 1 100000 to investor 351 within availability 94555 99483
+44223 >= 1 49167 <= 100000
+Allocate slot 44223 out of 1 100000 to investor 573 within availability 44223 49167
+8474 >= 1 13448 <= 100000
+Allocate slot 8474 out of 1 100000 to investor 644 within availability 8474 13448
+47195 >= 1 52216 <= 100000
+Allocate slot 47195 out of 1 100000 to investor 674 within availability 47195 52216
+89591 >= 1 94630 <= 100000
+Allocate slot 89591 out of 1 100000 to investor 305 within availability 89591 94630
+32898 >= 1 37942 <= 100000
+Allocate slot 32898 out of 1 100000 to investor 655 within availability 32898 37942
+65708 >= 1 70759 <= 100000
+Allocate slot 65708 out of 1 100000 to investor 486 within availability 65708 70759
+65200 >= 1 70310 <= 100000
+Allocate slot 65200 out of 1 100000 to investor 943 within availability 65200 70310
+47106 >= 1 52263 <= 100000
+Allocate slot 47106 out of 1 100000 to investor 415 within availability 47106 52263
+66229 >= 1 71444 <= 100000
+Allocate slot 66229 out of 1 100000 to investor 50 within availability 66229 71444
+56875 >= 1 62090 <= 100000
+Allocate slot 56875 out of 1 100000 to investor 390 within availability 56875 62090
+75510 >= 1 80741 <= 100000
+Allocate slot 75510 out of 1 100000 to investor 173 within availability 75510 80741
+58013 >= 1 63260 <= 100000
+Allocate slot 58013 out of 1 100000 to investor 890 within availability 58013 63260
+81061 >= 1 86331 <= 100000
+Allocate slot 81061 out of 1 100000 to investor 33 within availability 81061 86331
+93732 >= 1 99090 <= 100000
+Allocate slot 93732 out of 1 100000 to investor 845 within availability 93732 99090
+83821 >= 1 89213 <= 100000
+Allocate slot 83821 out of 1 100000 to investor 397 within availability 83821 89213
+71370 >= 1 76772 <= 100000
+Allocate slot 71370 out of 1 100000 to investor 925 within availability 71370 76772
+55725 >= 1 61177 <= 100000
+Allocate slot 55725 out of 1 100000 to investor 591 within availability 55725 61177
+89028 >= 1 94589 <= 100000
+Allocate slot 89028 out of 1 100000 to investor 526 within availability 89028 94589
+91542 >= 1 97172 <= 100000
+Allocate slot 91542 out of 1 100000 to investor 991 within availability 91542 97172
+5634 >= 1 11267 <= 100000
+Allocate slot 5634 out of 1 100000 to investor 167 within availability 5634 11267
+85683 >= 1 91325 <= 100000
+Allocate slot 85683 out of 1 100000 to investor 556 within availability 85683 91325
+10527 >= 1 16174 <= 100000
+Allocate slot 10527 out of 1 100000 to investor 161 within availability 10527 16174
+78886 >= 1 84551 <= 100000
+Allocate slot 78886 out of 1 100000 to investor 311 within availability 78886 84551
+84877 >= 1 90575 <= 100000
+Allocate slot 84877 out of 1 100000 to investor 35 within availability 84877 90575
+83660 >= 1 89382 <= 100000
+Allocate slot 83660 out of 1 100000 to investor 942 within availability 83660 89382
+35979 >= 1 41725 <= 100000
+Allocate slot 35979 out of 1 100000 to investor 707 within availability 35979 41725
+6009 >= 1 11766 <= 100000
+Allocate slot 6009 out of 1 100000 to investor 830 within availability 6009 11766
+67602 >= 1 73434 <= 100000
+Allocate slot 67602 out of 1 100000 to investor 206 within availability 67602 73434
+75442 >= 1 81388 <= 100000
+Allocate slot 75442 out of 1 100000 to investor 597 within availability 75442 81388
+35687 >= 1 41641 <= 100000
+Allocate slot 35687 out of 1 100000 to investor 959 within availability 35687 41641
+51827 >= 1 57795 <= 100000
+Allocate slot 51827 out of 1 100000 to investor 350 within availability 51827 57795
+74414 >= 1 80397 <= 100000
+Allocate slot 74414 out of 1 100000 to investor 741 within availability 74414 80397
+92228 >= 1 98212 <= 100000
+Allocate slot 92228 out of 1 100000 to investor 535 within availability 92228 98212
+46746 >= 1 52734 <= 100000
+Allocate slot 46746 out of 1 100000 to investor 726 within availability 46746 52734
+87258 >= 1 93253 <= 100000
+Allocate slot 87258 out of 1 100000 to investor 107 within availability 87258 93253
+4912 >= 1 10984 <= 100000
+Allocate slot 4912 out of 1 100000 to investor 441 within availability 4912 10984
+80118 >= 1 86210 <= 100000
+Allocate slot 80118 out of 1 100000 to investor 822 within availability 80118 86210
+68741 >= 1 74835 <= 100000
+Allocate slot 68741 out of 1 100000 to investor 541 within availability 68741 74835
+86904 >= 1 93043 <= 100000
+Allocate slot 86904 out of 1 100000 to investor 835 within availability 86904 93043
+92195 >= 1 98358 <= 100000
+Allocate slot 92195 out of 1 100000 to investor 719 within availability 92195 98358
+16141 >= 1 22307 <= 100000
+Allocate slot 16141 out of 1 100000 to investor 792 within availability 16141 22307
+93234 >= 1 99431 <= 100000
+Allocate slot 93234 out of 1 100000 to investor 287 within availability 93234 99431
+88204 >= 1 94417 <= 100000
+Allocate slot 88204 out of 1 100000 to investor 512 within availability 88204 94417
+88078 >= 1 94294 <= 100000
+Allocate slot 88078 out of 1 100000 to investor 801 within availability 88078 94294
+10679 >= 1 16914 <= 100000
+Allocate slot 10679 out of 1 100000 to investor 323 within availability 10679 16914
+88997 >= 1 95250 <= 100000
+Allocate slot 88997 out of 1 100000 to investor 996 within availability 88997 95250
+86380 >= 1 92706 <= 100000
+Allocate slot 86380 out of 1 100000 to investor 921 within availability 86380 92706
+83375 >= 1 89714 <= 100000
+Allocate slot 83375 out of 1 100000 to investor 316 within availability 83375 89714
+91130 >= 1 97526 <= 100000
+Allocate slot 91130 out of 1 100000 to investor 627 within availability 91130 97526
+84842 >= 1 91240 <= 100000
+Allocate slot 84842 out of 1 100000 to investor 442 within availability 84842 91240
+22142 >= 1 28551 <= 100000
+Allocate slot 22142 out of 1 100000 to investor 770 within availability 22142 28551
+9595 >= 1 16040 <= 100000
+Allocate slot 9595 out of 1 100000 to investor 500 within availability 9595 16040
+50512 >= 1 56967 <= 100000
+Allocate slot 50512 out of 1 100000 to investor 86 within availability 50512 56967
+78386 >= 1 84862 <= 100000
+Allocate slot 78386 out of 1 100000 to investor 859 within availability 78386 84862
+91485 >= 1 98013 <= 100000
+Allocate slot 91485 out of 1 100000 to investor 557 within availability 91485 98013
+65659 >= 1 72237 <= 100000
+Allocate slot 65659 out of 1 100000 to investor 474 within availability 65659 72237
+88356 >= 1 94974 <= 100000
+Allocate slot 88356 out of 1 100000 to investor 115 within availability 88356 94974
+93001 >= 1 99655 <= 100000
+Allocate slot 93001 out of 1 100000 to investor 217 within availability 93001 99655
+89348 >= 1 96009 <= 100000
+Allocate slot 89348 out of 1 100000 to investor 451 within availability 89348 96009
+66434 >= 1 73114 <= 100000
+Allocate slot 66434 out of 1 100000 to investor 624 within availability 66434 73114
+51873 >= 1 58570 <= 100000
+Allocate slot 51873 out of 1 100000 to investor 743 within availability 51873 58570
+88722 >= 1 95576 <= 100000
+Allocate slot 88722 out of 1 100000 to investor 386 within availability 88722 95576
+32875 >= 1 39732 <= 100000
+Allocate slot 32875 out of 1 100000 to investor 139 within availability 32875 39732
+92858 >= 1 99782 <= 100000
+Allocate slot 92858 out of 1 100000 to investor 71 within availability 92858 99782
+36290 >= 1 43257 <= 100000
+Allocate slot 36290 out of 1 100000 to investor 669 within availability 36290 43257
+90482 >= 1 97470 <= 100000
+Allocate slot 90482 out of 1 100000 to investor 425 within availability 90482 97470
+92918 >= 1 99914 <= 100000
+Allocate slot 92918 out of 1 100000 to investor 188 within availability 92918 99914
+29031 >= 1 36105 <= 100000
+Allocate slot 29031 out of 1 100000 to investor 491 within availability 29031 36105
+90047 >= 1 97151 <= 100000
+Allocate slot 90047 out of 1 100000 to investor 631 within availability 90047 97151
+82161 >= 1 89301 <= 100000
+Allocate slot 82161 out of 1 100000 to investor 37 within availability 82161 89301
+68428 >= 1 75595 <= 100000
+Allocate slot 68428 out of 1 100000 to investor 580 within availability 68428 75595
+41825 >= 1 49035 <= 100000
+Allocate slot 41825 out of 1 100000 to investor 469 within availability 41825 49035
+47141 >= 1 54358 <= 100000
+Allocate slot 47141 out of 1 100000 to investor 473 within availability 47141 54358
+20531 >= 1 27850 <= 100000
+Allocate slot 20531 out of 1 100000 to investor 615 within availability 20531 27850
+60073 >= 1 67414 <= 100000
+Allocate slot 60073 out of 1 100000 to investor 62 within availability 60073 67414
+77182 >= 1 84551 <= 100000
+Allocate slot 77182 out of 1 100000 to investor 221 within availability 77182 84551
+91702 >= 1 99084 <= 100000
+Allocate slot 91702 out of 1 100000 to investor 58 within availability 91702 99084
+64109 >= 1 71521 <= 100000
+Allocate slot 64109 out of 1 100000 to investor 4 within availability 64109 71521
+51505 >= 1 58965 <= 100000
+Allocate slot 51505 out of 1 100000 to investor 257 within availability 51505 58965
+75676 >= 1 83139 <= 100000
+Allocate slot 75676 out of 1 100000 to investor 430 within availability 75676 83139
+65118 >= 1 72609 <= 100000
+Allocate slot 65118 out of 1 100000 to investor 335 within availability 65118 72609
+61151 >= 1 68666 <= 100000
+Allocate slot 61151 out of 1 100000 to investor 805 within availability 61151 68666
+9389 >= 1 17019 <= 100000
+Allocate slot 9389 out of 1 100000 to investor 911 within availability 9389 17019
+55251 >= 1 62915 <= 100000
+Allocate slot 55251 out of 1 100000 to investor 791 within availability 55251 62915
+37572 >= 1 45250 <= 100000
+Allocate slot 37572 out of 1 100000 to investor 565 within availability 37572 45250
+76764 >= 1 84447 <= 100000
+Allocate slot 76764 out of 1 100000 to investor 891 within availability 76764 84447
+92225 >= 1 99911 <= 100000
+Allocate slot 92225 out of 1 100000 to investor 75 within availability 92225 99911
+91938 >= 1 99685 <= 100000
+Allocate slot 91938 out of 1 100000 to investor 961 within availability 91938 99685
+87253 >= 1 95108 <= 100000
+Allocate slot 87253 out of 1 100000 to investor 363 within availability 87253 95108
+80343 >= 1 88307 <= 100000
+Allocate slot 80343 out of 1 100000 to investor 728 within availability 80343 88307
+89990 >= 1 97987 <= 100000
+Allocate slot 89990 out of 1 100000 to investor 732 within availability 89990 97987
+66772 >= 1 74796 <= 100000
+Allocate slot 66772 out of 1 100000 to investor 3 within availability 66772 74796
+41958 >= 1 50018 <= 100000
+Allocate slot 41958 out of 1 100000 to investor 413 within availability 41958 50018
+12614 >= 1 20676 <= 100000
+Allocate slot 12614 out of 1 100000 to investor 529 within availability 12614 20676
+91225 >= 1 99295 <= 100000
+Allocate slot 91225 out of 1 100000 to investor 404 within availability 91225 99295
+35222 >= 1 43318 <= 100000
+Allocate slot 35222 out of 1 100000 to investor 643 within availability 35222 43318
+44007 >= 1 52111 <= 100000
+Allocate slot 44007 out of 1 100000 to investor 860 within availability 44007 52111
+79291 >= 1 87446 <= 100000
+Allocate slot 79291 out of 1 100000 to investor 238 within availability 79291 87446
+64620 >= 1 72834 <= 100000
+Allocate slot 64620 out of 1 100000 to investor 203 within availability 64620 72834
+27725 >= 1 35967 <= 100000
+Allocate slot 27725 out of 1 100000 to investor 686 within availability 27725 35967
+81779 >= 1 90039 <= 100000
+Allocate slot 81779 out of 1 100000 to investor 399 within availability 81779 90039
+86174 >= 1 94477 <= 100000
+Allocate slot 86174 out of 1 100000 to investor 507 within availability 86174 94477
+76449 >= 1 84774 <= 100000
+Allocate slot 76449 out of 1 100000 to investor 371 within availability 76449 84774
+90017 >= 1 98366 <= 100000
+Allocate slot 90017 out of 1 100000 to investor 416 within availability 90017 98366
+90143 >= 1 98543 <= 100000
+Allocate slot 90143 out of 1 100000 to investor 274 within availability 90143 98543
+4773 >= 1 13194 <= 100000
+Allocate slot 4773 out of 1 100000 to investor 330 within availability 4773 13194
+63480 >= 1 71982 <= 100000
+Allocate slot 63480 out of 1 100000 to investor 811 within availability 63480 71982
+90300 >= 1 98836 <= 100000
+Allocate slot 90300 out of 1 100000 to investor 979 within availability 90300 98836
+90656 >= 1 99232 <= 100000
+Allocate slot 90656 out of 1 100000 to investor 445 within availability 90656 99232
+78053 >= 1 86636 <= 100000
+Allocate slot 78053 out of 1 100000 to investor 863 within availability 78053 86636
+79186 >= 1 87799 <= 100000
+Allocate slot 79186 out of 1 100000 to investor 499 within availability 79186 87799
+75655 >= 1 84299 <= 100000
+Allocate slot 75655 out of 1 100000 to investor 856 within availability 75655 84299
+83934 >= 1 92712 <= 100000
+Allocate slot 83934 out of 1 100000 to investor 255 within availability 83934 92712
+70055 >= 1 78855 <= 100000
+Allocate slot 70055 out of 1 100000 to investor 276 within availability 70055 78855
+90052 >= 1 98868 <= 100000
+Allocate slot 90052 out of 1 100000 to investor 381 within availability 90052 98868
+91014 >= 1 99873 <= 100000
+Allocate slot 91014 out of 1 100000 to investor 748 within availability 91014 99873
+85618 >= 1 94511 <= 100000
+Allocate slot 85618 out of 1 100000 to investor 83 within availability 85618 94511
+49981 >= 1 58965 <= 100000
+Allocate slot 49981 out of 1 100000 to investor 336 within availability 49981 58965
+85701 >= 1 94782 <= 100000
+Allocate slot 85701 out of 1 100000 to investor 487 within availability 85701 94782
+6333 >= 1 15417 <= 100000
+Allocate slot 6333 out of 1 100000 to investor 534 within availability 6333 15417
+90165 >= 1 99276 <= 100000
+Allocate slot 90165 out of 1 100000 to investor 688 within availability 90165 99276
+87483 >= 1 96632 <= 100000
+Allocate slot 87483 out of 1 100000 to investor 854 within availability 87483 96632
+38829 >= 1 48021 <= 100000
+Allocate slot 38829 out of 1 100000 to investor 42 within availability 38829 48021
+78645 >= 1 87841 <= 100000
+Allocate slot 78645 out of 1 100000 to investor 224 within availability 78645 87841
+54901 >= 1 64181 <= 100000
+Allocate slot 54901 out of 1 100000 to investor 300 within availability 54901 64181
+30920 >= 1 40247 <= 100000
+Allocate slot 30920 out of 1 100000 to investor 462 within availability 30920 40247
+54953 >= 1 64296 <= 100000
+Allocate slot 54953 out of 1 100000 to investor 346 within availability 54953 64296
+87171 >= 1 96523 <= 100000
+Allocate slot 87171 out of 1 100000 to investor 995 within availability 87171 96523
+90099 >= 1 99530 <= 100000
+Allocate slot 90099 out of 1 100000 to investor 902 within availability 90099 99530
+68034 >= 1 77507 <= 100000
+Allocate slot 68034 out of 1 100000 to investor 10 within availability 68034 77507
+58165 >= 1 67674 <= 100000
+Allocate slot 58165 out of 1 100000 to investor 495 within availability 58165 67674
+48726 >= 1 58242 <= 100000
+Allocate slot 48726 out of 1 100000 to investor 613 within availability 48726 58242
+52878 >= 1 62407 <= 100000
+Allocate slot 52878 out of 1 100000 to investor 455 within availability 52878 62407
+27367 >= 1 37074 <= 100000
+Allocate slot 27367 out of 1 100000 to investor 91 within availability 27367 37074
+84968 >= 1 94757 <= 100000
+Allocate slot 84968 out of 1 100000 to investor 730 within availability 84968 94757
+60559 >= 1 70366 <= 100000
+Allocate slot 60559 out of 1 100000 to investor 92 within availability 60559 70366
+59517 >= 1 69335 <= 100000
+Allocate slot 59517 out of 1 100000 to investor 317 within availability 59517 69335
+87770 >= 1 97611 <= 100000
+Allocate slot 87770 out of 1 100000 to investor 712 within availability 87770 97611
+27220 >= 1 37069 <= 100000
+Allocate slot 27220 out of 1 100000 to investor 122 within availability 27220 37069
+59093 >= 1 69018 <= 100000
+Allocate slot 59093 out of 1 100000 to investor 538 within availability 59093 69018
+61108 >= 1 71057 <= 100000
+Allocate slot 61108 out of 1 100000 to investor 900 within availability 61108 71057
+89386 >= 1 99402 <= 100000
+Allocate slot 89386 out of 1 100000 to investor 68 within availability 89386 99402
+65346 >= 1 75379 <= 100000
+Allocate slot 65346 out of 1 100000 to investor 879 within availability 65346 75379
+7917 >= 1 18005 <= 100000
+Allocate slot 7917 out of 1 100000 to investor 970 within availability 7917 18005
+792 >= 1 10916 <= 100000
+Allocate slot 792 out of 1 100000 to investor 482 within availability 792 10916
+62073 >= 1 72219 <= 100000
+Allocate slot 62073 out of 1 100000 to investor 466 within availability 62073 72219
+20792 >= 1 31026 <= 100000
+Allocate slot 20792 out of 1 100000 to investor 939 within availability 20792 31026
+86906 >= 1 97147 <= 100000
+Allocate slot 86906 out of 1 100000 to investor 511 within availability 86906 97147
+47036 >= 1 57282 <= 100000
+Allocate slot 47036 out of 1 100000 to investor 260 within availability 47036 57282
+86581 >= 1 96988 <= 100000
+Allocate slot 86581 out of 1 100000 to investor 846 within availability 86581 96988
+57972 >= 1 68395 <= 100000
+Allocate slot 57972 out of 1 100000 to investor 51 within availability 57972 68395
+49060 >= 1 59623 <= 100000
+Allocate slot 49060 out of 1 100000 to investor 165 within availability 49060 59623
+50571 >= 1 61149 <= 100000
+Allocate slot 50571 out of 1 100000 to investor 545 within availability 50571 61149
+35513 >= 1 46107 <= 100000
+Allocate slot 35513 out of 1 100000 to investor 781 within availability 35513 46107
+31545 >= 1 42146 <= 100000
+Allocate slot 31545 out of 1 100000 to investor 747 within availability 31545 42146
+88453 >= 1 99060 <= 100000
+Allocate slot 88453 out of 1 100000 to investor 515 within availability 88453 99060
+68278 >= 1 78978 <= 100000
+Allocate slot 68278 out of 1 100000 to investor 132 within availability 68278 78978
+75357 >= 1 86060 <= 100000
+Allocate slot 75357 out of 1 100000 to investor 953 within availability 75357 86060
+54939 >= 1 65657 <= 100000
+Allocate slot 54939 out of 1 100000 to investor 941 within availability 54939 65657
+79970 >= 1 90833 <= 100000
+Allocate slot 79970 out of 1 100000 to investor 760 within availability 79970 90833
+60657 >= 1 71626 <= 100000
+Allocate slot 60657 out of 1 100000 to investor 784 within availability 60657 71626
+65964 >= 1 76990 <= 100000
+Allocate slot 65964 out of 1 100000 to investor 210 within availability 65964 76990
+62463 >= 1 73518 <= 100000
+Allocate slot 62463 out of 1 100000 to investor 672 within availability 62463 73518
+18928 >= 1 29984 <= 100000
+Allocate slot 18928 out of 1 100000 to investor 398 within availability 18928 29984
+51154 >= 1 62211 <= 100000
+Allocate slot 51154 out of 1 100000 to investor 55 within availability 51154 62211
+70000 >= 1 81057 <= 100000
+Allocate slot 70000 out of 1 100000 to investor 96 within availability 70000 81057
+86873 >= 1 97943 <= 100000
+Allocate slot 86873 out of 1 100000 to investor 549 within availability 86873 97943
+41742 >= 1 52836 <= 100000
+Allocate slot 41742 out of 1 100000 to investor 190 within availability 41742 52836
+35866 >= 1 47113 <= 100000
+Allocate slot 35866 out of 1 100000 to investor 470 within availability 35866 47113
+75222 >= 1 86477 <= 100000
+Allocate slot 75222 out of 1 100000 to investor 174 within availability 75222 86477
+84583 >= 1 95839 <= 100000
+Allocate slot 84583 out of 1 100000 to investor 904 within availability 84583 95839
+53533 >= 1 64808 <= 100000
+Allocate slot 53533 out of 1 100000 to investor 118 within availability 53533 64808
+84329 >= 1 95748 <= 100000
+Allocate slot 84329 out of 1 100000 to investor 893 within availability 84329 95748
+22614 >= 1 34064 <= 100000
+Allocate slot 22614 out of 1 100000 to investor 479 within availability 22614 34064
+75598 >= 1 87089 <= 100000
+Allocate slot 75598 out of 1 100000 to investor 331 within availability 75598 87089
+77834 >= 1 89380 <= 100000
+Allocate slot 77834 out of 1 100000 to investor 53 within availability 77834 89380
+74334 >= 1 85920 <= 100000
+Allocate slot 74334 out of 1 100000 to investor 610 within availability 74334 85920
+19758 >= 1 31395 <= 100000
+Allocate slot 19758 out of 1 100000 to investor 359 within availability 19758 31395
+18006 >= 1 29693 <= 100000
+Allocate slot 18006 out of 1 100000 to investor 475 within availability 18006 29693
+21554 >= 1 33296 <= 100000
+Allocate slot 21554 out of 1 100000 to investor 913 within availability 21554 33296
+56681 >= 1 68611 <= 100000
+Allocate slot 56681 out of 1 100000 to investor 361 within availability 56681 68611
+59070 >= 1 71004 <= 100000
+Allocate slot 59070 out of 1 100000 to investor 711 within availability 59070 71004
+71130 >= 1 83130 <= 100000
+Allocate slot 71130 out of 1 100000 to investor 689 within availability 71130 83130
+22290 >= 1 34298 <= 100000
+Allocate slot 22290 out of 1 100000 to investor 40 within availability 22290 34298
+85023 >= 1 97053 <= 100000
+Allocate slot 85023 out of 1 100000 to investor 861 within availability 85023 97053
+58619 >= 1 70701 <= 100000
+Allocate slot 58619 out of 1 100000 to investor 905 within availability 58619 70701
+86046 >= 1 98160 <= 100000
+Allocate slot 86046 out of 1 100000 to investor 341 within availability 86046 98160
+31751 >= 1 43880 <= 100000
+Allocate slot 31751 out of 1 100000 to investor 378 within availability 31751 43880
+69074 >= 1 81261 <= 100000
+Allocate slot 69074 out of 1 100000 to investor 769 within availability 69074 81261
+32403 >= 1 44599 <= 100000
+Allocate slot 32403 out of 1 100000 to investor 1 within availability 32403 44599
+32281 >= 1 44494 <= 100000
+Allocate slot 32281 out of 1 100000 to investor 420 within availability 32281 44494
+81950 >= 1 94205 <= 100000
+Allocate slot 81950 out of 1 100000 to investor 742 within availability 81950 94205
+53799 >= 1 66156 <= 100000
+Allocate slot 53799 out of 1 100000 to investor 116 within availability 53799 66156
+6520 >= 1 18893 <= 100000
+Allocate slot 6520 out of 1 100000 to investor 9 within availability 6520 18893
+84827 >= 1 97251 <= 100000
+Allocate slot 84827 out of 1 100000 to investor 258 within availability 84827 97251
+83805 >= 1 96242 <= 100000
+Allocate slot 83805 out of 1 100000 to investor 176 within availability 83805 96242
+23089 >= 1 35617 <= 100000
+Allocate slot 23089 out of 1 100000 to investor 717 within availability 23089 35617
+63218 >= 1 75756 <= 100000
+Allocate slot 63218 out of 1 100000 to investor 762 within availability 63218 75756
+84003 >= 1 96596 <= 100000
+Allocate slot 84003 out of 1 100000 to investor 312 within availability 84003 96596
+41039 >= 1 53677 <= 100000
+Allocate slot 41039 out of 1 100000 to investor 731 within availability 41039 53677
+80065 >= 1 92724 <= 100000
+Allocate slot 80065 out of 1 100000 to investor 352 within availability 80065 92724
+85480 >= 1 98223 <= 100000
+Allocate slot 85480 out of 1 100000 to investor 777 within availability 85480 98223
+5373 >= 1 18128 <= 100000
+Allocate slot 5373 out of 1 100000 to investor 197 within availability 5373 18128
+64887 >= 1 77664 <= 100000
+Allocate slot 64887 out of 1 100000 to investor 585 within availability 64887 77664
+75658 >= 1 88459 <= 100000
+Allocate slot 75658 out of 1 100000 to investor 124 within availability 75658 88459
+85223 >= 1 98152 <= 100000
+Allocate slot 85223 out of 1 100000 to investor 528 within availability 85223 98152
+22601 >= 1 35622 <= 100000
+Allocate slot 22601 out of 1 100000 to investor 481 within availability 22601 35622
+54100 >= 1 67160 <= 100000
+Allocate slot 54100 out of 1 100000 to investor 472 within availability 54100 67160
+79454 >= 1 92517 <= 100000
+Allocate slot 79454 out of 1 100000 to investor 808 within availability 79454 92517
+68846 >= 1 81919 <= 100000
+Allocate slot 68846 out of 1 100000 to investor 401 within availability 68846 81919
+60683 >= 1 73778 <= 100000
+Allocate slot 60683 out of 1 100000 to investor 64 within availability 60683 73778
+1 >= 1 13182 <= 100000
+Allocate slot 1 out of 1 100000 to investor 532 within availability 1 13182
+63331 >= 2 76558 <= 100000
+Allocate slot 63331 out of 2 100000 to investor 14 within availability 63331 76558
+10995 >= 2 24360 <= 100000
+Allocate slot 10995 out of 2 100000 to investor 637 within availability 10995 24360
+8006 >= 2 21404 <= 100000
+Allocate slot 8006 out of 2 100000 to investor 646 within availability 8006 21404
+54896 >= 2 68379 <= 100000
+Allocate slot 54896 out of 2 100000 to investor 839 within availability 54896 68379
+13038 >= 2 26522 <= 100000
+Allocate slot 13038 out of 2 100000 to investor 275 within availability 13038 26522
+75973 >= 2 89505 <= 100000
+Allocate slot 75973 out of 2 100000 to investor 517 within availability 75973 89505
+27344 >= 2 40898 <= 100000
+Allocate slot 27344 out of 2 100000 to investor 379 within availability 27344 40898
+71795 >= 2 85392 <= 100000
+Allocate slot 71795 out of 2 100000 to investor 763 within availability 71795 85392
+86005 >= 2 99617 <= 100000
+Allocate slot 86005 out of 2 100000 to investor 63 within availability 86005 99617
+77684 >= 2 91439 <= 100000
+Allocate slot 77684 out of 2 100000 to investor 621 within availability 77684 91439
+80114 >= 2 93899 <= 100000
+Allocate slot 80114 out of 2 100000 to investor 796 within availability 80114 93899
+62792 >= 2 76713 <= 100000
+Allocate slot 62792 out of 2 100000 to investor 460 within availability 62792 76713
+13811 >= 2 27787 <= 100000
+Allocate slot 13811 out of 2 100000 to investor 192 within availability 13811 27787
+47960 >= 2 62074 <= 100000
+Allocate slot 47960 out of 2 100000 to investor 393 within availability 47960 62074
+40988 >= 2 55294 <= 100000
+Allocate slot 40988 out of 2 100000 to investor 357 within availability 40988 55294
+8814 >= 2 23244 <= 100000
+Allocate slot 8814 out of 2 100000 to investor 665 within availability 8814 23244
+76061 >= 2 90520 <= 100000
+Allocate slot 76061 out of 2 100000 to investor 16 within availability 76061 90520
+56380 >= 2 70875 <= 100000
+Allocate slot 56380 out of 2 100000 to investor 332 within availability 56380 70875
+79178 >= 2 93699 <= 100000
+Allocate slot 79178 out of 2 100000 to investor 720 within availability 79178 93699
+80260 >= 2 94879 <= 100000
+Allocate slot 80260 out of 2 100000 to investor 23 within availability 80260 94879
+54415 >= 2 69045 <= 100000
+Allocate slot 54415 out of 2 100000 to investor 804 within availability 54415 69045
+47151 >= 2 61858 <= 100000
+Allocate slot 47151 out of 2 100000 to investor 262 within availability 47151 61858
+68887 >= 2 83702 <= 100000
+Allocate slot 68887 out of 2 100000 to investor 692 within availability 68887 83702
+9134 >= 2 23967 <= 100000
+Allocate slot 9134 out of 2 100000 to investor 28 within availability 9134 23967
+28025 >= 2 42939 <= 100000
+Allocate slot 28025 out of 2 100000 to investor 223 within availability 28025 42939
+12400 >= 2 27461 <= 100000
+Allocate slot 12400 out of 2 100000 to investor 716 within availability 12400 27461
+82132 >= 2 97404 <= 100000
+Allocate slot 82132 out of 2 100000 to investor 380 within availability 82132 97404
+43485 >= 2 58851 <= 100000
+Allocate slot 43485 out of 2 100000 to investor 690 within availability 43485 58851
+69445 >= 2 84865 <= 100000
+Allocate slot 69445 out of 2 100000 to investor 162 within availability 69445 84865
+75543 >= 2 90993 <= 100000
+Allocate slot 75543 out of 2 100000 to investor 15 within availability 75543 90993
+82293 >= 2 97757 <= 100000
+Allocate slot 82293 out of 2 100000 to investor 439 within availability 82293 97757
+26406 >= 2 41878 <= 100000
+Allocate slot 26406 out of 2 100000 to investor 858 within availability 26406 41878
+79323 >= 2 94888 <= 100000
+Allocate slot 79323 out of 2 100000 to investor 8 within availability 79323 94888
+43087 >= 2 58653 <= 100000
+Allocate slot 43087 out of 2 100000 to investor 737 within availability 43087 58653
+77886 >= 2 93458 <= 100000
+Allocate slot 77886 out of 2 100000 to investor 117 within availability 77886 93458
+51853 >= 2 67660 <= 100000
+Allocate slot 51853 out of 2 100000 to investor 145 within availability 51853 67660
+83502 >= 2 99314 <= 100000
+Allocate slot 83502 out of 2 100000 to investor 249 within availability 83502 99314
+72029 >= 2 87849 <= 100000
+Allocate slot 72029 out of 2 100000 to investor 185 within availability 72029 87849
+83372 >= 2 99201 <= 100000
+Allocate slot 83372 out of 2 100000 to investor 237 within availability 83372 99201
+46938 >= 2 62812 <= 100000
+Allocate slot 46938 out of 2 100000 to investor 812 within availability 46938 62812
+69744 >= 2 85812 <= 100000
+Allocate slot 69744 out of 2 100000 to investor 553 within availability 69744 85812
+55606 >= 2 71810 <= 100000
+Allocate slot 55606 out of 2 100000 to investor 989 within availability 55606 71810
+83257 >= 2 99488 <= 100000
+Allocate slot 83257 out of 2 100000 to investor 171 within availability 83257 99488
+75905 >= 2 92193 <= 100000
+Allocate slot 75905 out of 2 100000 to investor 205 within availability 75905 92193
+83547 >= 2 99848 <= 100000
+Allocate slot 83547 out of 2 100000 to investor 334 within availability 83547 99848
+27641 >= 2 43945 <= 100000
+Allocate slot 27641 out of 2 100000 to investor 245 within availability 27641 43945
+17721 >= 2 34114 <= 100000
+Allocate slot 17721 out of 2 100000 to investor 948 within availability 17721 34114
+54733 >= 2 71173 <= 100000
+Allocate slot 54733 out of 2 100000 to investor 109 within availability 54733 71173
+80098 >= 2 96564 <= 100000
+Allocate slot 80098 out of 2 100000 to investor 207 within availability 80098 96564
+46684 >= 2 63240 <= 100000
+Allocate slot 46684 out of 2 100000 to investor 181 within availability 46684 63240
+59411 >= 2 75971 <= 100000
+Allocate slot 59411 out of 2 100000 to investor 400 within availability 59411 75971
+53862 >= 2 70464 <= 100000
+Allocate slot 53862 out of 2 100000 to investor 235 within availability 53862 70464
+77450 >= 2 94101 <= 100000
+Allocate slot 77450 out of 2 100000 to investor 146 within availability 77450 94101
+43368 >= 2 60050 <= 100000
+Allocate slot 43368 out of 2 100000 to investor 583 within availability 43368 60050
+15271 >= 2 31955 <= 100000
+Allocate slot 15271 out of 2 100000 to investor 736 within availability 15271 31955
+40430 >= 2 57324 <= 100000
+Allocate slot 40430 out of 2 100000 to investor 270 within availability 40430 57324
+19108 >= 2 36005 <= 100000
+Allocate slot 19108 out of 2 100000 to investor 802 within availability 19108 36005
+42694 >= 2 59611 <= 100000
+Allocate slot 42694 out of 2 100000 to investor 851 within availability 42694 59611
+74167 >= 2 91149 <= 100000
+Allocate slot 74167 out of 2 100000 to investor 111 within availability 74167 91149
+82433 >= 2 99443 <= 100000
+Allocate slot 82433 out of 2 100000 to investor 256 within availability 82433 99443
+13078 >= 2 30182 <= 100000
+Allocate slot 13078 out of 2 100000 to investor 823 within availability 13078 30182
+68679 >= 2 85805 <= 100000
+Allocate slot 68679 out of 2 100000 to investor 640 within availability 68679 85805
+3061 >= 2 20213 <= 100000
+Allocate slot 3061 out of 2 100000 to investor 990 within availability 3061 20213
+17284 >= 2 34485 <= 100000
+Allocate slot 17284 out of 2 100000 to investor 809 within availability 17284 34485
+53122 >= 2 70341 <= 100000
+Allocate slot 53122 out of 2 100000 to investor 82 within availability 53122 70341
+24877 >= 2 42127 <= 100000
+Allocate slot 24877 out of 2 100000 to investor 387 within availability 24877 42127
+72558 >= 2 89809 <= 100000
+Allocate slot 72558 out of 2 100000 to investor 774 within availability 72558 89809
+6024 >= 2 23332 <= 100000
+Allocate slot 6024 out of 2 100000 to investor 824 within availability 6024 23332
+3801 >= 2 21152 <= 100000
+Allocate slot 3801 out of 2 100000 to investor 143 within availability 3801 21152
+41431 >= 2 58862 <= 100000
+Allocate slot 41431 out of 2 100000 to investor 508 within availability 41431 58862
+31239 >= 2 48673 <= 100000
+Allocate slot 31239 out of 2 100000 to investor 657 within availability 31239 48673
+24506 >= 2 41988 <= 100000
+Allocate slot 24506 out of 2 100000 to investor 772 within availability 24506 41988
+38306 >= 2 55818 <= 100000
+Allocate slot 38306 out of 2 100000 to investor 738 within availability 38306 55818
+33719 >= 2 51278 <= 100000
+Allocate slot 33719 out of 2 100000 to investor 22 within availability 33719 51278
+79445 >= 2 97168 <= 100000
+Allocate slot 79445 out of 2 100000 to investor 296 within availability 79445 97168
+33782 >= 2 51550 <= 100000
+Allocate slot 33782 out of 2 100000 to investor 617 within availability 33782 51550
+80268 >= 2 98067 <= 100000
+Allocate slot 80268 out of 2 100000 to investor 827 within availability 80268 98067
+29815 >= 2 47734 <= 100000
+Allocate slot 29815 out of 2 100000 to investor 136 within availability 29815 47734
+24399 >= 2 42413 <= 100000
+Allocate slot 24399 out of 2 100000 to investor 800 within availability 24399 42413
+17861 >= 2 36073 <= 100000
+Allocate slot 17861 out of 2 100000 to investor 787 within availability 17861 36073
+64042 >= 2 82454 <= 100000
+Allocate slot 64042 out of 2 100000 to investor 81 within availability 64042 82454
+22536 >= 2 40966 <= 100000
+Allocate slot 22536 out of 2 100000 to investor 199 within availability 22536 40966
+43394 >= 2 61851 <= 100000
+Allocate slot 43394 out of 2 100000 to investor 218 within availability 43394 61851
+69186 >= 2 87657 <= 100000
+Allocate slot 69186 out of 2 100000 to investor 450 within availability 69186 87657
+30039 >= 2 48591 <= 100000
+Allocate slot 30039 out of 2 100000 to investor 286 within availability 30039 48591
+22954 >= 2 41590 <= 100000
+Allocate slot 22954 out of 2 100000 to investor 169 within availability 22954 41590
+33166 >= 2 51886 <= 100000
+Allocate slot 33166 out of 2 100000 to investor 355 within availability 33166 51886
+68916 >= 2 87644 <= 100000
+Allocate slot 68916 out of 2 100000 to investor 926 within availability 68916 87644
+35589 >= 2 54411 <= 100000
+Allocate slot 35589 out of 2 100000 to investor 810 within availability 35589 54411
+65302 >= 2 84167 <= 100000
+Allocate slot 65302 out of 2 100000 to investor 602 within availability 65302 84167
+31008 >= 2 49882 <= 100000
+Allocate slot 31008 out of 2 100000 to investor 865 within availability 31008 49882
+30191 >= 2 49070 <= 100000
+Allocate slot 30191 out of 2 100000 to investor 954 within availability 30191 49070
+77058 >= 2 95968 <= 100000
+Allocate slot 77058 out of 2 100000 to investor 795 within availability 77058 95968
+56292 >= 2 75237 <= 100000
+Allocate slot 56292 out of 2 100000 to investor 209 within availability 56292 75237
+77266 >= 2 96366 <= 100000
+Allocate slot 77266 out of 2 100000 to investor 90 within availability 77266 96366
+22672 >= 2 41774 <= 100000
+Allocate slot 22672 out of 2 100000 to investor 344 within availability 22672 41774
+14158 >= 2 33267 <= 100000
+Allocate slot 14158 out of 2 100000 to investor 452 within availability 14158 33267
+75414 >= 2 94527 <= 100000
+Allocate slot 75414 out of 2 100000 to investor 101 within availability 75414 94527
+72136 >= 2 91294 <= 100000
+Allocate slot 72136 out of 2 100000 to investor 97 within availability 72136 91294
+80604 >= 2 99845 <= 100000
+Allocate slot 80604 out of 2 100000 to investor 501 within availability 80604 99845
+57530 >= 2 76956 <= 100000
+Allocate slot 57530 out of 2 100000 to investor 595 within availability 57530 76956
+48270 >= 2 67800 <= 100000
+Allocate slot 48270 out of 2 100000 to investor 641 within availability 48270 67800
+51234 >= 2 70823 <= 100000
+Allocate slot 51234 out of 2 100000 to investor 679 within availability 51234 70823
+23113 >= 2 42770 <= 100000
+Allocate slot 23113 out of 2 100000 to investor 967 within availability 23113 42770
+78136 >= 2 97847 <= 100000
+Allocate slot 78136 out of 2 100000 to investor 993 within availability 78136 97847
+56677 >= 2 76468 <= 100000
+Allocate slot 56677 out of 2 100000 to investor 377 within availability 56677 76468
+63808 >= 2 83651 <= 100000
+Allocate slot 63808 out of 2 100000 to investor 89 within availability 63808 83651
+76535 >= 2 96386 <= 100000
+Allocate slot 76535 out of 2 100000 to investor 577 within availability 76535 96386
+43386 >= 2 63317 <= 100000
+Allocate slot 43386 out of 2 100000 to investor 179 within availability 43386 63317
+69725 >= 2 89790 <= 100000
+Allocate slot 69725 out of 2 100000 to investor 150 within availability 69725 89790
+49026 >= 2 69110 <= 100000
+Allocate slot 49026 out of 2 100000 to investor 677 within availability 49026 69110
+72178 >= 2 92301 <= 100000
+Allocate slot 72178 out of 2 100000 to investor 807 within availability 72178 92301
+63656 >= 2 83788 <= 100000
+Allocate slot 63656 out of 2 100000 to investor 586 within availability 63656 83788
+53793 >= 2 73973 <= 100000
+Allocate slot 53793 out of 2 100000 to investor 965 within availability 53793 73973
+37357 >= 2 57606 <= 100000
+Allocate slot 37357 out of 2 100000 to investor 21 within availability 37357 57606
+34864 >= 2 55166 <= 100000
+Allocate slot 34864 out of 2 100000 to investor 382 within availability 34864 55166
+75564 >= 2 95917 <= 100000
+Allocate slot 75564 out of 2 100000 to investor 219 within availability 75564 95917
+79141 >= 2 99524 <= 100000
+Allocate slot 79141 out of 2 100000 to investor 246 within availability 79141 99524
+36835 >= 2 57331 <= 100000
+Allocate slot 36835 out of 2 100000 to investor 113 within availability 36835 57331
+67187 >= 2 87783 <= 100000
+Allocate slot 67187 out of 2 100000 to investor 61 within availability 67187 87783
+50278 >= 2 70939 <= 100000
+Allocate slot 50278 out of 2 100000 to investor 814 within availability 50278 70939
+26675 >= 2 47388 <= 100000
+Allocate slot 26675 out of 2 100000 to investor 385 within availability 26675 47388
+60416 >= 2 81129 <= 100000
+Allocate slot 60416 out of 2 100000 to investor 673 within availability 60416 81129
+56385 >= 2 77120 <= 100000
+Allocate slot 56385 out of 2 100000 to investor 933 within availability 56385 77120
+22180 >= 2 43048 <= 100000
+Allocate slot 22180 out of 2 100000 to investor 917 within availability 22180 43048
+2751 >= 2 23625 <= 100000
+Allocate slot 2751 out of 2 100000 to investor 303 within availability 2751 23625
+59518 >= 2 80526 <= 100000
+Allocate slot 59518 out of 2 100000 to investor 721 within availability 59518 80526
+59796 >= 2 80810 <= 100000
+Allocate slot 59796 out of 2 100000 to investor 247 within availability 59796 80810
+28290 >= 2 49360 <= 100000
+Allocate slot 28290 out of 2 100000 to investor 540 within availability 28290 49360
+76187 >= 2 97308 <= 100000
+Allocate slot 76187 out of 2 100000 to investor 873 within availability 76187 97308
+28777 >= 2 50000 <= 100000
+Allocate slot 28777 out of 2 100000 to investor 38 within availability 28777 50000
+40074 >= 2 61369 <= 100000
+Allocate slot 40074 out of 2 100000 to investor 543 within availability 40074 61369
+43351 >= 2 64705 <= 100000
+Allocate slot 43351 out of 2 100000 to investor 396 within availability 43351 64705
+70879 >= 2 92234 <= 100000
+Allocate slot 70879 out of 2 100000 to investor 72 within availability 70879 92234
+42049 >= 2 63439 <= 100000
+Allocate slot 42049 out of 2 100000 to investor 408 within availability 42049 63439
+58268 >= 2 79680 <= 100000
+Allocate slot 58268 out of 2 100000 to investor 750 within availability 58268 79680
+35903 >= 2 57372 <= 100000
+Allocate slot 35903 out of 2 100000 to investor 945 within availability 35903 57372
+64487 >= 2 86023 <= 100000
+Allocate slot 64487 out of 2 100000 to investor 724 within availability 64487 86023
+13636 >= 2 35199 <= 100000
+Allocate slot 13636 out of 2 100000 to investor 831 within availability 13636 35199
+5604 >= 2 27200 <= 100000
+Allocate slot 5604 out of 2 100000 to investor 73 within availability 5604 27200
+39719 >= 2 61369 <= 100000
+Allocate slot 39719 out of 2 100000 to investor 265 within availability 39719 61369
+74054 >= 2 95903 <= 100000
+Allocate slot 74054 out of 2 100000 to investor 156 within availability 74054 95903
+67331 >= 2 89242 <= 100000
+Allocate slot 67331 out of 2 100000 to investor 683 within availability 67331 89242
+22460 >= 2 44432 <= 100000
+Allocate slot 22460 out of 2 100000 to investor 663 within availability 22460 44432
+59690 >= 2 81979 <= 100000
+Allocate slot 59690 out of 2 100000 to investor 928 within availability 59690 81979
+75606 >= 2 97931 <= 100000
+Allocate slot 75606 out of 2 100000 to investor 708 within availability 75606 97931
+71367 >= 2 93712 <= 100000
+Allocate slot 71367 out of 2 100000 to investor 694 within availability 71367 93712
+71304 >= 2 93703 <= 100000
+Allocate slot 71304 out of 2 100000 to investor 368 within availability 71304 93703
+53212 >= 2 75705 <= 100000
+Allocate slot 53212 out of 2 100000 to investor 231 within availability 53212 75705
+8850 >= 2 31456 <= 100000
+Allocate slot 8850 out of 2 100000 to investor 266 within availability 8850 31456
+70720 >= 2 93334 <= 100000
+Allocate slot 70720 out of 2 100000 to investor 120 within availability 70720 93334
+57001 >= 2 79648 <= 100000
+Allocate slot 57001 out of 2 100000 to investor 503 within availability 57001 79648
+5824 >= 2 28501 <= 100000
+Allocate slot 5824 out of 2 100000 to investor 240 within availability 5824 28501
+35588 >= 2 58425 <= 100000
+Allocate slot 35588 out of 2 100000 to investor 693 within availability 35588 58425
+63437 >= 2 86384 <= 100000
+Allocate slot 63437 out of 2 100000 to investor 168 within availability 63437 86384
+60831 >= 2 83798 <= 100000
+Allocate slot 60831 out of 2 100000 to investor 744 within availability 60831 83798
+12217 >= 2 35191 <= 100000
+Allocate slot 12217 out of 2 100000 to investor 340 within availability 12217 35191
+29723 >= 2 52761 <= 100000
+Allocate slot 29723 out of 2 100000 to investor 897 within availability 29723 52761
+60632 >= 2 83742 <= 100000
+Allocate slot 60632 out of 2 100000 to investor 670 within availability 60632 83742
+66010 >= 2 89208 <= 100000
+Allocate slot 66010 out of 2 100000 to investor 912 within availability 66010 89208
+59865 >= 2 83157 <= 100000
+Allocate slot 59865 out of 2 100000 to investor 866 within availability 59865 83157
+65145 >= 2 88449 <= 100000
+Allocate slot 65145 out of 2 100000 to investor 771 within availability 65145 88449
+57245 >= 2 80734 <= 100000
+Allocate slot 57245 out of 2 100000 to investor 682 within availability 57245 80734
+73894 >= 2 97435 <= 100000
+Allocate slot 73894 out of 2 100000 to investor 12 within availability 73894 97435
+57855 >= 2 81416 <= 100000
+Allocate slot 57855 out of 2 100000 to investor 780 within availability 57855 81416
+57027 >= 2 80694 <= 100000
+Allocate slot 57027 out of 2 100000 to investor 630 within availability 57027 80694
+60853 >= 2 84539 <= 100000
+Allocate slot 60853 out of 2 100000 to investor 17 within availability 60853 84539
+39230 >= 2 62927 <= 100000
+Allocate slot 39230 out of 2 100000 to investor 764 within availability 39230 62927
+18556 >= 2 42377 <= 100000
+Allocate slot 18556 out of 2 100000 to investor 66 within availability 18556 42377
+23098 >= 2 46928 <= 100000
+Allocate slot 23098 out of 2 100000 to investor 524 within availability 23098 46928
+26323 >= 2 50205 <= 100000
+Allocate slot 26323 out of 2 100000 to investor 172 within availability 26323 50205
+68166 >= 2 92138 <= 100000
+Allocate slot 68166 out of 2 100000 to investor 32 within availability 68166 92138
+3554 >= 2 27574 <= 100000
+Allocate slot 3554 out of 2 100000 to investor 299 within availability 3554 27574
+57787 >= 2 81847 <= 100000
+Allocate slot 57787 out of 2 100000 to investor 29 within availability 57787 81847
+21452 >= 2 45540 <= 100000
+Allocate slot 21452 out of 2 100000 to investor 59 within availability 21452 45540
+67549 >= 2 91736 <= 100000
+Allocate slot 67549 out of 2 100000 to investor 510 within availability 67549 91736
+61812 >= 2 86060 <= 100000
+Allocate slot 61812 out of 2 100000 to investor 280 within availability 61812 86060
+73757 >= 2 98132 <= 100000
+Allocate slot 73757 out of 2 100000 to investor 896 within availability 73757 98132
+59424 >= 2 83896 <= 100000
+Allocate slot 59424 out of 2 100000 to investor 198 within availability 59424 83896
+45760 >= 2 70419 <= 100000
+Allocate slot 45760 out of 2 100000 to investor 914 within availability 45760 70419
+54531 >= 2 79213 <= 100000
+Allocate slot 54531 out of 2 100000 to investor 365 within availability 54531 79213

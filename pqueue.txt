@@ -1,0 +1,158 @@
+from compare import Comparator
+
+class Node(Comparator):
+    def __init__(self, value):
+        self.value = value
+    def __repr__(self):
+        return self.value.__str__()
+
+class PQueue:
+    def __init__(self, elements = []):
+        assert type(elements) == list, 'Invalid argument, list expected'
+        self.__heapSize = 0
+        self.__capacity = max(1, len(elements)) 
+        self.__heap = [None for _ in range(self.__capacity)]
+        self.__map = {}
+        for element in elements:
+            self.add(element)
+
+    def add(self, item): #TODO
+        if item == None:
+            raise Exception('Illegal argument') 
+        if self.__heapSize < self.__capacity:
+            self.set(self.__heapSize, item)
+        else:
+            self.__heap.append(item)
+            self.__capacity = self.__capacity +1
+
+        #self.mapAdd(item, self.__heapSize)
+        self.__swim(self.__heapSize)
+        self.__heapSize = self.__heapSize +1
+
+    def mapAdd(self, item, index):
+        pass
+
+    def __swim(self, index):
+        parent = int((index -1) /2)
+
+        while index > 0 and self.__heap[index] > self.__heap[parent]:
+            self.__swap(index, parent)
+            index = parent
+            parent = int((index -1) /2)
+
+    def __swap(self, index1, index2):
+        e1 = self.__heap[index1]
+        e2 = self.__heap[index2]
+        self.__heap[index1] = e2
+        self.__heap[index2] = e1
+        #self.__mapSwap(self.__heap[index1], self.__heap[index2], index1, index2)
+
+    def __mapSwap(self, item1, item2, index1, index2):
+        pass
+
+    def remove(self, item):
+        if item == None:
+            return False
+        for i in range(self.__heapSize):
+            if self.__heap[i] == item:
+                self.removeAt(i)
+                return True
+        #index = self.mapGet(item)
+        #if index != None:
+        #    self.removeAt(index)
+        #return index != None
+
+    def mapGet(self, item):
+        return None
+
+    def __sink(self, index):
+        while True:
+            # node's children
+            left = 2*index +1
+            right = 2*index +2 
+            # find the smallest child
+            small = left 
+            if right < self.__heapSize and self.__heap[right] < self.__heap[left]:
+                small = right 
+            # check if given item  > smallest child, then swap, else exit
+            if left >= self.__heapSize or self.__heap[small] > self.__heap[index]:
+                break 
+            else:
+                self.__swap(index, small)
+                index = small
+
+    def set(self, index, value):
+        assert type(index) == int, 'Invalid argument: set(int index, object value)'
+        assert index >= 0, 'Invalid index'
+        self.__heap[index] = Node(value)
+
+    def isEmpty(self):
+        return self.size() == 0
+
+    def size(self):
+        return self.__heapSize
+
+    def clear(self):
+        for i in range(self.size()):
+            self.set(i, None)
+        self.__map = {}
+        self.__heapSize = 0
+
+    def peek(self):
+        if self.isEmpty():
+            return None
+        return self.__heap[0]
+
+    def pool(self):
+        return self.removeAt(0)
+
+    def removeAt(self, index):
+        if self.isEmpty():
+            return None
+        value = self.__heap[index]
+        self.__swap(index, self.__heapSize -1)
+        self.set(self.__heapSize -1, None)
+        #self.__mapRemove(value, index)
+        self.__heapSize = self.__heapSize -1
+        
+        if index == self.__heapSize:
+            return value  
+        else:
+            self.__swim(index)
+            node = self.__heap[index]
+            if self.__heap[index] == node: #check if swim worked
+                self.__sink(index)
+        return value
+
+    def __mapRemove(self, value, index):
+        pass
+
+    def minHeap(self, index=0):
+        if index > self.__heapSize:
+            return True
+
+        left = 2*index +1
+        right = 2*index +2
+
+        if left < self.__heapSize and self.__heap[left] > self.__heap[index]:
+            return False
+        if right < self.__heapSize and self.__heap[right] > self.__heap[index]:
+            return False
+        return self.minHeap(left) and self.minHeap(right)
+
+    def contains(self, item):
+        if item == None:
+            return False
+        #return self.__map.has_key(item)
+        return self.indexOf(item) != -1
+
+    def indexOf(self, item):
+        for i in range(self.__heapSize):
+            if self.__heap[i] == item:
+                return i
+        return -1
+
+
+
+    
+
